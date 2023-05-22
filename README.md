@@ -11,6 +11,6 @@ curl -L https://raw.githubusercontent.com/naiba/nezha/master/script/install.sh -
 ```
 只需要更改为
 ```bash
-curl -L https://raw.githubusercontent.com/heartalborada-del/nezha-agent-rc.common/main/install.sh -o nezha.sh && chmod +x nezha.sh && sudo ./nezha.sh install_agent rpc port key --tls
+curl -L https://raw.githubusercontent.com/heartalborada-del/nezha-agent-rc.common/main/install.sh -o nezha.sh && chmod +x nezha.sh && sudo ./nezha.sh rpc port key --tls
 ```
 即可安装
