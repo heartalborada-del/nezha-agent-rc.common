@@ -1,7 +1,7 @@
 # nezha-agent-rc.common
 适用于rc.common的nezha agent部署脚本
 
-~~本项目源于我的一位朋友家OpenWrt经常炸系统，我又不想每次都重装Agen，于是有了本脚本~~
+~~本项目源于我的一位朋友家OpenWrt经常炸系统，我又不想每次都重装Agent，于是有了本脚本~~
 ## How to use it
 兼容官方部署脚本
 
