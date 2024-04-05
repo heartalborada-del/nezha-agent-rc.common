@@ -53,7 +53,7 @@ if [[ -z "${CN}" ]]; then
     GITHUB_URL="github.com"
 else
     GITHUB_RAW_URL="cdn.jsdelivr.net/gh/naiba/nezha@master"
-    GITHUB_URL="dn-dao-github-mirror.daocloud.io"
+    GITHUB_URL="mirror.ghproxy.com/https://github.com"
 fi
 ## get version
 echo -e "Obtaining Agent version"
